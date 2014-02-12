@@ -1,0 +1,10 @@
+{
+  "name": "rei",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "jcarousel": "~0.3.0"
+  },
+  "devDependencies": {}
+}
